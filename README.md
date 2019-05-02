@@ -1,2 +1,2 @@
-# Web-Statis-Sematics With Microdata and RDFa 
+# Web-Static-Semantic With Microdata and RDFa 
   
